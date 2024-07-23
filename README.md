@@ -4,6 +4,8 @@ These are some of the DSA templates I keep handy while leetcoding. Its great to 
 <details>
 <summary>Binary Search + Modification Template [ Python ]</summary>
 
+![image](https://github.com/user-attachments/assets/d958f676-5f24-42d2-8562-24ef37232aba)
+
 ```python
 def binary_search(array) -> int:
     def condition(value) -> bool:
@@ -23,6 +25,10 @@ def binary_search(array) -> int:
     # **left is the minimal k satisfying the condition function**
     return left
 ```
+
+![bs](https://github.com/user-attachments/assets/6cd6a88e-a14c-4284-b838-a1d6a87abf64)
+
+![bs 1](https://github.com/user-attachments/assets/7fdd3fe8-9e77-4748-90cc-edc9691fa53f)
 
 </details>
 
